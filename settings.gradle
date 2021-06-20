@@ -1,0 +1,2 @@
+rootProject.name = "QuickDice"
+include ':app'
