@@ -4,7 +4,8 @@ This is a simple digital version of the dice used primarily for playing Dungeons
 
 I made this app for two reasons. I wanted to begin to learn how to make apps for Android, and I thought this was a simple enough exercise. I also wanted to enable my friends to play Dungeons and Dragons without either sharing my one set of dice (which would be a nightmare) or having them all buy their own and perhaps finding out they don't like the game. This simple app solves this conundrum. 
 
-Here's a link to a demo of my program: [Software Demo Video](https://youtu.be/RTtbvrS-6TI)
+Here's a link to the first version of my program: [Software Demo Video](https://youtu.be/RTtbvrS-6TI)
+And here's a link to the visual overhaul: [Visual Overhaul](https://youtu.be/VfELIbyFeH0)
 
 # Development Environment
 
