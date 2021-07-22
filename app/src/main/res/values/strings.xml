@@ -11,7 +11,7 @@
     <string name="d12">D12</string>
     <string name="d20">D20</string>
     <string name="d100">D100</string>
-    <string name="custom">Custom Roll</string>
+    <string name="custom">Custom</string>
     <string name="number">##</string>
 
     <!-- Custom Dice -->
